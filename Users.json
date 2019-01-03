@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "first_name": "Janet",
+    "last_name": "Weaver",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+  },
+  {
+    "id": 3,
+    "first_name": "Nadiia",
+    "last_name": "Dorozhynska",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/129.jpg"
+  }
+]
+/*
+[
+  [2, Janet, Weaver, ...]
+  [3, Nadiia, Dorozhynska, ...]
+]
+*/

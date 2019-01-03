@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="3">
+    <parameter name="author" value="Nadiia"/>
+    <parameter name="searchKey" value="India"/>
+    <test name="testNadiia">
+        <parameter name="searchKey" value="UK"/>
+        <classes>
+            <class name="parameters.ParametersXMLTest">
+            </class>
+        </classes>
+    </test>
+</suite>
